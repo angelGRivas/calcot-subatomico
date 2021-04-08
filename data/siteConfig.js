@@ -61,6 +61,13 @@ module.exports = {
     },
     {
       sectionName: 'Follow the author',
+      links: [
+        {
+          label: 'Website',
+          url: 'https://www.acogeauncientifico.com',
+          rel: 'external',
+        },
+      ],
     },
   ],
 }
