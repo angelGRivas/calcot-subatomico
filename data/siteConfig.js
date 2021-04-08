@@ -9,7 +9,7 @@ module.exports = {
   authorDescription: `
   El autor es un fan de los calçot de estructura subatómica.
   `,
-  siteUrl: 'https://www.calcot-subatomico.com',
+  siteUrl: 'https://calcot-subatomico.netlify.app/',
   disqusSiteUrl: '',
   // Prefixes all links. For cases when deployed to maxpou.fr/gatsby-starter-morning-dew/
   pathPrefix: '/gatsby-starter-morning-dew', // Note: it must *not* have a trailing slash.
@@ -61,18 +61,6 @@ module.exports = {
     },
     {
       sectionName: 'Follow the author',
-      links: [
-        {
-          label: 'Website',
-          url: 'https://www.acogeauncientifico.com',
-          rel: 'external',
-        },
-        {
-          label: 'Twitter',
-          url: '',
-          rel: 'external',
-        },
-      ],
     },
   ],
 }
