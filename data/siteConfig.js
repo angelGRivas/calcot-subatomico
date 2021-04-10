@@ -1,5 +1,5 @@
 module.exports = {
-  siteTitle: 'Calçot Subatómico',
+  siteTitle: 'Calçot Subatómico - Ángel Gabriel Rivas Fonfría',
   siteDescription:
     'El calçot subatómico consiste en una variedad de calçot cuánticos',
   authorName: 'Ángel Rivas',
