@@ -1,6 +1,6 @@
 module.exports = {
-  siteTitle: 'Calçot Subatómico',
-  siteDescription: 'AGRF',
+  siteTitle: 'Calçot Subatómico - AGRF',
+  siteDescription: 'Nueva variedad de calçot descubierta: calçot subatómico.',
   authorName: 'Ángel Rivas',
   twitterUsername: 'no',
   authorAvatar: 'nivel-atomico.png', // file in content/images
