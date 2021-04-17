@@ -20,6 +20,12 @@ class BlogList extends React.Component {
         <Hero title={title} subTitle={description} />
 
         <Wrapper>
+          Los Calçot subatómico son una variedad de cebollas desarrollada por
+          físicos de partículas. Estos calçots presentan una estructura
+          subatómica única. Está estructura está formada por diferentes quarks
+          que forman hadrones que diferencian estas verdudas de sus
+          competidoras. Las calçotadas hechas con los calçots subatómicos tienen
+          un sabor inigualable.
           <PostsList posts={posts} />
         </Wrapper>
 

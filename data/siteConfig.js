@@ -1,7 +1,6 @@
 module.exports = {
-  siteTitle: 'Calçot Subatómico - Ángel Gabriel Rivas Fonfría',
-  siteDescription:
-    'El calçot subatómico consiste en una variedad de calçot cuánticos',
+  siteTitle: 'Calçot Subatómico',
+  siteDescription: 'AGRF',
   authorName: 'Ángel Rivas',
   twitterUsername: 'no',
   authorAvatar: 'nivel-atomico.png', // file in content/images
