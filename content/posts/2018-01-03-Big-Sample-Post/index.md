@@ -1,7 +1,7 @@
 ---
 title: 'Calçot subatómico'
 slug: calçot-subatómico
-date: 2018-01-03
+date: 2020-01-03
 language: es
 generate-card: true
 tags:
@@ -13,9 +13,9 @@ tags:
   - cebolla
 ---
 
-## Nueva variedad de Calçot descubierta: Calçot Subatómica
+## Nueva variedad de Calçot descubierta: Calçot Subatómico
 
-Nueva variedad de calçot descubierta: calçot subatómica. Es una calçot de tamaño minúsculo con unas propiedades únicas. Es una calçot del tamaño de las partículas fundamentales.
+Nueva variedad de calçot descubierta: calçot subatómico. Es una calçot de tamaño minúsculo con unas propiedades únicas. Es una calçot del tamaño de las partículas fundamentales.
 
 Es una de las únicas frutas que se podría convertir en una línea de foodstuffs que se puedan comer más después de comer un bife de res chile. En unos pocos años se proyectó hacia los alimentos que se supone sean más saludables, como el amarillo o los mandarines.
 
