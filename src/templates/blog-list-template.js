@@ -8,6 +8,15 @@ import PostsList from '../components/PostsList'
 import Pagination from '../components/Pagination'
 import SEO from '../components/SEO'
 
+const Excerpt = styled.p`
+  line-height: 1.45;
+  padding-bottom: 0.5em;
+`
+
+const PostHeader = styled.header`
+  padding: 1em 0;
+`
+
 class BlogList extends React.Component {
   render() {
     const { title, description } = this.props.data.site.siteMetadata
@@ -20,16 +29,20 @@ class BlogList extends React.Component {
         <Hero title={title} subTitle={description} />
 
         <Wrapper>
-          <h1>Calçots subatómicos</h1>
+          <PostHeader>
+            <h2>Calçots subatómicos</h2>
+          </PostHeader>
 
-          <p>
-            Los Calçots subatómicos son una variedad de cebollas desarrollada
-            por físicos de partículas. Estos calçots presentan una estructura
-            subatómica única. Está estructura está formada por diferentes quarks
-            que forman hadrones que diferencian estas verdudas de sus
-            competidoras. Las calçotadas hechas con los calçots subatómicos
-            tienen un sabor inigualable.
-          </p>
+          <section>
+            <Excerpt>
+              Los Calçots subatómicos son una variedad de cebollas desarrollada
+              por físicos de partículas. Estos calçots presentan una estructura
+              subatómica única. Está estructura está formada por diferentes
+              quarks que forman hadrones que diferencian estas verdudas de sus
+              competidoras. Las calçotadas hechas con los calçots subatómicos
+              tienen un sabor inigualable.
+            </Excerpt>
+          </section>
         </Wrapper>
         <Wrapper>
           <PostsList posts={posts} />

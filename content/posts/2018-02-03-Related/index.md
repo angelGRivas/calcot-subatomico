@@ -16,4 +16,4 @@ tags:
 ## Más sitios se unen al fenómeno de los calçots subatómicos:
 
 - [Ignacio Salinas](https://mycalcotsubatomico.wordpress.com/)
-- ...
+- [Antonio Coín](https://calcotsubatomico.wordpress.com/)
