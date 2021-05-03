@@ -7,6 +7,7 @@ import Hero from '../components/Hero'
 import PostsList from '../components/PostsList'
 import Pagination from '../components/Pagination'
 import SEO from '../components/SEO'
+import styled from 'styled-components'
 
 const Excerpt = styled.p`
   line-height: 1.45;
